@@ -1,7 +1,7 @@
 # physical_chemistry_training
-This repository stores materials for the physical chemistry training I conducted for undergraduate students at the School of Environment, Shandong University, at the end of the first semester in 2024.
+This repository stores materials for the physical chemistry training I conducted for undergraduate students at the School of Environment Science and Engineering, Shandong University, at the end of the first semester in 2024.
 
-本库存储了2024年第一学期末我在山东大学环境学院对本科生进行的物理化学培训的资料。
+本库存储了2024年第一学期末我在山东大学环境科学与工程学院对本科生进行的物理化学培训的资料。
 
 This course provides a comprehensive summary of Physical Chemistry (6th Edition) from Tianjin University, with an anticipated total teaching duration of 8 hours.
 
