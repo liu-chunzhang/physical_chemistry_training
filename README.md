@@ -9,4 +9,4 @@ This course provides a comprehensive summary of Physical Chemistry (6th Edition)
 
 If readers have any questions about this material, they can contact me at shuangchengxue@gmail.com.
 
-如果读者对这份资料有疑问，可以联系我，邮箱为shuangchengxue@gmail.com
+如果读者对这份资料有疑问，可以联系我，邮箱为shuangchengxue@gmail.com。
