@@ -11,8 +11,6 @@ If readers have any questions about this material, they can contact me at shuang
 
 如果读者对这份资料有疑问，可以联系我，邮箱为shuangchengxue@gmail.com。
 
-
+I did this work again at the end of the first semester of 2025. During this period, I corrected and improved the original slides. The original work was placed in the 2024 folder.
 
 2025年第一学期末我又进行了该工作，在此期间对原有slides进行了纠错改进，原来的工作放在2024的文件夹中。
-
-I did this work again at the end of the first semester of 2025. During this period, I corrected and improved the original slides. The original work was placed in the 2024 folder.
